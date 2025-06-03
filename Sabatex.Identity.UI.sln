@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sabatex.Identity.UI", "Sabatex.Identity.UI\Sabatex.Identity.UI.csproj", "{94D0EFB2-0666-6AE9-36E0-1D82AD5FE796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D0EFB2-0666-6AE9-36E0-1D82AD5FE796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D0EFB2-0666-6AE9-36E0-1D82AD5FE796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D0EFB2-0666-6AE9-36E0-1D82AD5FE796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D0EFB2-0666-6AE9-36E0-1D82AD5FE796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B18AB8C-BEFD-4857-9D6A-17711CE0A134}
+	EndGlobalSection
+EndGlobal
